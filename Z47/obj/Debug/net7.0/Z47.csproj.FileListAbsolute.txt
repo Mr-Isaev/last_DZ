@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\DZ\Z47\bin\Debug\net7.0\Z47.exe
+C:\Users\1\Desktop\DZ\Z47\bin\Debug\net7.0\Z47.deps.json
+C:\Users\1\Desktop\DZ\Z47\bin\Debug\net7.0\Z47.runtimeconfig.json
+C:\Users\1\Desktop\DZ\Z47\bin\Debug\net7.0\Z47.dll
+C:\Users\1\Desktop\DZ\Z47\bin\Debug\net7.0\Z47.pdb
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\Z47.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\Z47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\Z47.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\Z47.AssemblyInfo.cs
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\Z47.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\Z47.dll
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\refint\Z47.dll
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\Z47.pdb
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\Z47.genruntimeconfig.cache
+C:\Users\1\Desktop\DZ\Z47\obj\Debug\net7.0\ref\Z47.dll

@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\DZ\Z52\bin\Debug\net7.0\Z52.exe
+C:\Users\1\Desktop\DZ\Z52\bin\Debug\net7.0\Z52.deps.json
+C:\Users\1\Desktop\DZ\Z52\bin\Debug\net7.0\Z52.runtimeconfig.json
+C:\Users\1\Desktop\DZ\Z52\bin\Debug\net7.0\Z52.dll
+C:\Users\1\Desktop\DZ\Z52\bin\Debug\net7.0\Z52.pdb
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\Z52.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\Z52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\Z52.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\Z52.AssemblyInfo.cs
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\Z52.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\Z52.dll
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\refint\Z52.dll
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\Z52.pdb
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\Z52.genruntimeconfig.cache
+C:\Users\1\Desktop\DZ\Z52\obj\Debug\net7.0\ref\Z52.dll
